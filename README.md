@@ -99,19 +99,6 @@ Use /stats — to show statistic
 In case you have any questions or need help, please do not hesitate to contact **Ryabina** team by:
 
 * telegram: [@RyabinaValidator](https://t.me/RyabinaValidator)
-
-* twitter: [@Ryabinaio](https://twitter.com/Ryabinaio)
-
-* riot: [@ryabina:matrix.org](https://riot.im/app/#/user/@ryabina:matrix.org)
-
 * [@Acala_Ryabina_bot](https://t.me/Acala_Ryabina_bot)
 
-* [@Kusama_bot](https://t.me/Kusama_bot)
-
-* [@Polkadot_Ryabina_bot](https://t.me/Polkadot_Ryabina_bot)
-
-* [@Edgeware_bot](https://t.me/Edgeware_bot)
-
-If you liked our bots, nominate ***Ryabina*** validators on Polkadot, Kusama and Edgeware!
-
-Thank you🤗!
+Our Acala address: 5FEoLBq9BP8X3iU6iPmW2KWJahcCazeSaLPd2CamVfdwsCc1
